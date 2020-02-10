@@ -80,3 +80,5 @@ export default {
 }
 </style>
 ```
+
+![](https://raw.githubusercontent.com/chenxiaobin/vue-markdown-docs/master/public/images/test.jpg)
