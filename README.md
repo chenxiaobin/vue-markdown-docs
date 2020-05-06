@@ -2,7 +2,7 @@
 
 #### 安装
 ```
-npm install vue-markdown-docs
+npm install @lekima/vue-markdown-docs
 ```
 
 #### 属性
