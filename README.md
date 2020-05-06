@@ -16,6 +16,8 @@ scope | 单文件组件中，从外部import的组件 | object |
 
 #### 示例
 
+[demo](https://chenxiaobin.github.io/vue-markdown-docs/lib/index.html#/)
+
 ##### 需要展示的代码 `code.vue`
 ```
 <template>

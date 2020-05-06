@@ -5,7 +5,7 @@
 </template>
 <script>
 import axios from 'axios'
-import markdownDocs from '../components/index'
+import markdownDocs from '../components/code-run'
 
 import moment from 'moment'
 export default {
@@ -13,7 +13,8 @@ export default {
     return {
       code: '',
       scope: {
-        moment
+        moment,
+        axios
       }
     }
   },
